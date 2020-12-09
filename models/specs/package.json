@@ -1,0 +1,11 @@
+{
+  "name": "specs",
+  "version": "1.0.0",
+  "main": "painter_spec.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
